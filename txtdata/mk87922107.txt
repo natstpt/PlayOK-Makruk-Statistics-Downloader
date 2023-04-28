@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2023.04.28"]
+[Round "-"]
+[White "cpm1399g"]
+[Black "jsk77"]
+[Result "1-0"]
+[Time "22:48:40"]
+[TimeControl "600"]
+[WhiteElo "1293"]
+[BlackElo "1248"]
+
+1. c4 Ne7 2. Nc3 Bf7 3. Bf2 Nd7 4. Nge2 Qc7 5. Bc2 b5 6. d4 Qb6 7. Bd3 Bc7 8.
+Qd2 e5 9. Kc2 g5 10. h4 Rg8 11. g4 Be6 12. hxg5 hxg5 13. Rh7 Nf8 14. Rh6 Kf7
+15. Bg3 Kg7 16. Rah1 Bf7 17. f4 gxf4 18. exf4 exd4 19. Nxd4 bxc4 20. bxc4 Qc5
+21. Nf3 Bg6 22. Ne4 f5 23. gxf5 Bxf5 24. Nf6 Nfg6 25. Nxg8 Rxg8 26. Ng5 Bd8 27.
+Qe3 Bd7 28. Rh7+ Kf6 29. Rf7# 1-0
+

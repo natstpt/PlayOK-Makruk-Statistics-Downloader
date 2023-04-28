@@ -1,0 +1,26 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2023.04.29"]
+[Round "-"]
+[White "cpm1399g"]
+[Black "jsk77"]
+[Result "1/2-1/2"]
+[Time "00:27:05"]
+[TimeControl "600"]
+[WhiteElo "1292"]
+[BlackElo "1249"]
+
+1. c4 Bf7 2. Nc3 Ne7 3. Bf2 Qc7 4. Nge2 Bd7 5. Bc2 c5 6. d4 Bc6 7. Bd3 Nd7 8.
+Qd2 Rb8 9. g4 b5 10. h4 a5 11. a4 b4 12. Ne4 d5 13. N4g3 Qd6 14. e4 Kd8 15. Qe3
+Kc7 16. Kd2 Rbd8 17. Kc2 Rc8 18. Kb2 Kb6 19. Rac1 Rcd8 20. dxc5+ Qxc5 21. Rhd1
+dxe4 22. Bxe4 f5 23. gxf5 gxf5 24. Bd3 e5 25. f4 e4 26. Bxe4 fxe4 27. Nxe4 Nf5
+28. h5 Rhe8 29. N2g3 Be6 30. Rg1 Rg8 31. Rcd1 Nxg3 32. Nxg3 Nf6 33. Rxd8 Rxd8
+34. Ne2 Bf5 35. Rg7 Ne4 36. Kc2 Qd6 37. Bf3 Nc5 38. Qd4 Ne6 39. Rf7 Rf8 40.
+Rxf8 Nxf8 41. Kd3 Ne6 42. Ke3 Ng7 43. Ng3 Kc7 44. Qe5 Qxe5 45. fxe5 Bd7 46. Kd4
+Kc6 47. Ne4 Bxe4 48. Bxe4 Nxh5 49. Bd5+ Kc7 50. c5 Ng7 51. Kc4 Bc6 52. e6=P
+Bxd5+ 53. Pxd5 h5 54. Kb5 h4 55. Kxa5 h3=P 56. Kxb4 Pg4 57. Kc4 Kd7 58. Kd4 Ke7
+59. Ke5 Kf7 60. b4 Kg6 61. b5 Pf5 62. b6=P Ne8 63. a5 Nf6 64. a6=P Kg5 65. Pb5
+Ng4+ 66. Kd4 Kf4 67. c6=P Nf6 68. Pc5 Ng4 69. Pbc4 Ne5 70. Pd3 Nf3+ 71. Kc4
+Ne5+ 72. Kc3 Nf3 73. Pb5 Ne5 74. Pbc4 Nd7 75. Pd4 Nf6 76. Kd2 Ng4 77. Ke2 Nf6
+78. Pe3+ Ke5 79. Kf3 Pg4+ 80. Kg3 Pf5 81. Kf3 Pg4+ 82. Kg3 Pf5 83. Kf3 1/2-1/2
+

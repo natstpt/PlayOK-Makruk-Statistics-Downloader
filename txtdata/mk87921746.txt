@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2023.04.28"]
+[Round "-"]
+[White "cpm1399g"]
+[Black "gkb7950"]
+[Result "1-0"]
+[Time "21:24:46"]
+[TimeControl "600"]
+[WhiteElo "1228"]
+[BlackElo "1155"]
+
+1. c4 d5 2. Nc3 Qc7 3. Nge2 Qd6 4. cxd5 cxd5 5. Bf2 Nc6 6. Bc2 Bf7 7. d4 Nge7
+8. Bd3 Bd7 9. Qd2 Kf8 10. Kc2 Kg7 11. b4 Rhc8 12. Kb3 e5 13. h4 Bde6 14. g4
+Rab8 15. Bg3 Qc5 16. g5 hxg5 17. hxg5 exd4 18. exd4 f5 19. Bf4 Na7 20. Qe3 Nb5
+21. Nxb5 axb5 22. Nc3 Nc6 23. Nxb5 Bd7 24. Be5 Nxe5 25. dxe5 Bc6 26. Nc3 b5 27.
+Qd4 Qxd4 28. Bxd4 Rh8 29. Ne2 Be6 30. Nf4 Bcd7 31. Nxd5 Bxd5 32. Bxd5 Rbe8 33.
+Rxh8 Rxh8 34. e6=P Be8 35. Bd6 Rh3 36. Rf1 Rg3 37. a4 bxa4+ 38. Kxa4 Rxg5 39.
+Rc1 Kf6 40. Pd5 Be7 41. f4 Rg4 42. Be5+ Kf7 43. Rc7 Ke8 44. Ka5 g5 45. fxg5
+Rxg5 46. b5 f4 47. Bd4 Kd8 48. Rc1 Bd6 49. Pc6 f3=P 50. Re1 Rg4 51. Be5 Kc7 52.
+Bxd6+ Kxd6 53. Rd1+ Ke5 54. b6=P Pe4 55. Pc5 Rg2 56. Kb5 Rb2+ 57. Pb4 Rb3 58.
+Kc4 Rd3 59. Re1 Rd4+ 60. Kc5 Rd3 61. Re2 Rd1 62. Pc3 Rd3 63. Kc4 Rd1 64. Rh2
+Pf5 65. Rh4 Pe4 66. Rh5+ Pf5 67. Rg5 Rd8 68. Rg1 Pe4 69. Re1 Rd6 70. Kc5 Rd3
+71. Pb4 Rd2 72. Pb5 Rc2+ 73. Pc4 Rd2 74. Pa5 Rd8 75. Pb6 Rc8+ 76. Kb5 Rd8 77.
+Pc7 Rd7 78. Kc6 Rd4 79. Kc5 Rd7 80. Pb6 Rd8 81. Rh1 Rc8+ 82. Kb5 Rd8 83. Rh5+
+Pf5 84. Kc6 Rd6+ 85. Kc5 Rd8 86. Pc7 Rc8 87. Kc6 Kd4 88. Rh4+ Ke5 89. Pd5 Pe6
+90. Re4+ Kf6 91. Rxe6+ Kf7 92. Re1 Ra8 93. Rf1+ Ke7 94. Pd6+ Ke8 95. Rh1 Ra6+
+96. Kc5 Kf7 97. Kd4 Ra4+ 98. Ke5 Ra2 99. Pe6+ Kg6 100. Rg1+ Kh5 101. Pd5 Ra5
+102. Pe7 Kh4 103. Pf6 Kh3 104. Rg5 Kh4 105. Kf4 Ra4+ 106. Pe4 Rb4 107. Rg1 Kh3
+108. Pg5 Ra4 109. Ph4 Kh2 110. Rg8 Rb4 111. Ke3 Rb3+ 112. Pd3 Kh3 113. Pg5 Kg4
+114. Ke4 Rb4+ 115. Ke3 Rb3 116. Pf4+ Kf5 117. Rg5+ Kf6 118. Kd4 Rb4+ 119. Pc4
+Ra4 120. Rc5 Rb4 121. Ke4 Ra4 122. Rc6+ Ke7 123. Ke5 Kd7 124. Pd5 Ra5 125. Pg5
+Ra1 126. Rc4 Re1+ 127. Pe4 Re2 128. Pf6 Re1 129. Rd4+ Kc6 130. Pe7 Kc5 131.
+Pd6+ Kb5 132. Kd5 Rc1 133. Rd2 Kb4 134. Rd3 Rc4 135. Rd1 Rc3 136. Rb1+ Ka5 137.
+Pc5 Ka6 138. Kc6 Ka7 139. Pd5 Rc2 140. Pe6 Rc3 141. Pd7 Rc2 142. Pc8 Rc3 143.
+Pb7 Rc2 144. Ra1+ Kb8 145. Ra8# 1-0
+

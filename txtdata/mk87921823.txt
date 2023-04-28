@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2023.04.28"]
+[Round "-"]
+[White "cpm1399g"]
+[Black "gkb7950"]
+[Result "1-0"]
+[Time "21:44:27"]
+[TimeControl "600"]
+[WhiteElo "1241"]
+[BlackElo "1142"]
+
+1. c4 b5 2. Nc3 bxc4 3. bxc4 d5 4. cxd5 cxd5 5. Nge2 Bf7 6. Bc2 Qc7 7. d4 Qd6
+8. Bd3 Nc6 9. e4 Nge7 10. exd5 Nxd5 11. Nxd5 exd5 12. Qd2 Bd7 13. Bf2 Bfe6 14.
+Qc3 Kf7 15. Kd2 Rab8 16. Rab1 a5 17. g4 a4 18. h4 Rb3 19. Qb4 Rxb1 20. Rxb1 Rb8
+21. Nc3 Qe5 22. Be3 f5 23. gxf5 gxf5 24. f4 Qd6 25. Nxa4 Na5 26. Nc3 Nc4+ 27.
+Bxc4 dxc4 28. d5 Be5 29. fxe5 Qxe5 30. Rg1 Bd6 31. Ke2 Rd8 32. Rd1 Kf6 33. Kf3
+h5 34. Rd2 Rd7 35. Rg2 Bxd5 36. Rg5 Qd4 37. Nxd5+ Rxd5 38. Bf4 c3=P 39. Rxh5
+Pxb4 40. axb4 Rb5 41. Ke2 Rxb4 42. Rxf5+ Ke6 43. Kd3 Kd6 44. h5 Qc5 45. Be5+
+Kc6 46. h6=P Rb3+ 47. Ke4 Rb4+ 48. Kf3 Kd5 49. Bf4+ Kd4 50. Be3+ Kc4 51. Rf4+
+Kc3 52. Rxb4 Qxb4 53. Ke4 Kc2 54. Pg5 Qc3 55. Pf4 Qd2 56. Bf2 Qc3 57. Pe3 Qd2
+58. Pd4 Qc3 59. Pc5 Qd2 60. Bf3 Qc3 61. Be2 Kd2 62. Be3+ Ke2 63. Bf4 Kf2 64.
+Kd3 Kf3 65. Be3 Qb2 66. Bd2 Qa3 67. Pd4 Qb4 68. Pe3 Qc5 69. Be1 Qd6 70. Bf2+
+Kg4 71. Ke4 Kg5 72. Pf4+ Kf6 73. Bf3 Ke6 74. Bg4 Kd7 75. Kd5 Qe7 76. Bf5 Kc7
+77. Pe5 Qd8 78. Pd6+ Kb6 79. Pc5+ Kc7 80. Be6 Kb7 81. Bd7 Qc7 82. Bc6+ Ka6 83.
+Kc4 Qb6 84. Bb5+ Kb7 85. Pxb6 Kc8 86. Kd5 Kd8 87. Ke6 Ke8 88. Kf6 Kd7 89. Pc5
+Ke8 90. Bc6 Kf8 91. Bd7 Kg8 92. Kg6 Kf8 93. Pd6 Kg8 94. Pe7 1-0
+
