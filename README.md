@@ -1,4 +1,4 @@
-# PlayOK-Makruk-Statistics-Downloader
+# PlayOK Makruk Statistics Downloader
 
 This Python script downloads game statistics from the PlayOK website (https://www.playok.com) for a specified user ID and saves them as text files in a local "txtdata" directory.
 
